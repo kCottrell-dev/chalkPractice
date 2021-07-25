@@ -1,16 +1,14 @@
 {
-  "name": "chalkfun",
+  "name": "discordbot",
   "version": "1.0.0",
-  "description": "Chalk short story assignment",
-  "main": "index.js",
-  "dependencies": {
-    "chalk": "^4.1.1",
-    "chalk-animation": "^1.6.0"
-  },
-  "devDependencies": {},
+  "description": "Discord bot assignment",
+  "main": "main.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "author": "stuart",
-  "license": "ISC"
+  "author": "KC",
+  "license": "ISC",
+  "dependencies": {
+    "discord.js": "^12.5.3"
+  }
 }
