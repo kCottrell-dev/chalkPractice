@@ -1,0 +1,16 @@
+{
+  "name": "chalkfun",
+  "version": "1.0.0",
+  "description": "Chalk short story assignment",
+  "main": "index.js",
+  "dependencies": {
+    "chalk": "^4.1.1",
+    "chalk-animation": "^1.6.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "stuart",
+  "license": "ISC"
+}
